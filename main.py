@@ -5,3 +5,5 @@ def foo():
         _type_: _description_
     """
     return help(foo)
+
+print(foo)
